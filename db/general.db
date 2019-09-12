@@ -1,0 +1,15 @@
+{
+	"pwd":"",
+	"user":"",
+	"port":1883,
+	"path":"",
+	"ServNm":"broker.hivemq.com",
+	"EnbMQTT":true,
+	"tol":150,
+	"InpRGB":false,
+	"Inp1":3,
+	"Inp2":3,
+	"M0":0,
+  "M1":0,
+	"EnbSTA":false
+}

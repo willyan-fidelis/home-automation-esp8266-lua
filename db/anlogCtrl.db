@@ -1,0 +1,8 @@
+{
+    "enbAutoCtrl":1,
+	"outMin":0,
+    "outMax":1023,
+    "inMin":0,
+    "inMax":10000,
+    "scanTime":5000
+}

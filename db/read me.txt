@@ -1,0 +1,9 @@
+db_evts_pde - presense delayed events
+db_evts_pe - presense events
+db_evts_scene - scenes in wich the pde and pe events can be configurable.
+db_evts_te - time events.
+
+------ New Tables ------
+events - All events saved.
+config - All configuration saved. It is NOT KEEPED OPEN.
+general - All configuration saved. It IS KEEPED OPEN EVER.

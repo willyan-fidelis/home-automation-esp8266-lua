@@ -1,0 +1,27 @@
+{
+	"te":
+	{
+		"i1":{"enb":false,"StDn":false,"cmd":{"m0":2,"m1":1},"wk_days":{"i1":false,"i2":false,"i3":false,"i4":false,"i5":false,"i6":false,"i7":false},"h":0,"m":0},
+		"i2":{"enb":false,"StDn":false,"cmd":{"m0":0,"m1":0},"wk_days":{"i1":false,"i2":false,"i3":false,"i4":false,"i5":false,"i6":false,"i7":false},"h":1,"m":0}
+	},
+	"pe":
+	{
+		"i1":{"enb":true,"cmd":{"m0":1,"m1":0},"dy_sec":0,"prd":0}
+	},
+	"prd":
+	{
+		"i1":{"h1":13,"m1":51,"h2":13,"m2":53},
+		"i2":{"h1":13,"m1":51,"h2":13,"m2":53}
+	},
+	"lgt_e":
+	{
+		"i1":{"enb":false,"m0":3,"m1":3,"typ":1},
+		"i2":{"enb":false,"m0":0,"m1":1,"typ":2}
+	},
+	"lgtyp":
+	{
+		"i1":65535,
+		"i2":3700
+	}
+
+}

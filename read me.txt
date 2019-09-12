@@ -1,0 +1,4 @@
+First device:
+Version: 1.0
+Type: 1
+Type description: m0(m0 always represent the device, with rtc, presense sensor and internet acess point), m1(digital ouput), m2(digital ouput).
